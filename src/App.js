@@ -5,8 +5,8 @@ function App() {
   return (
     <div>
       <Hook1/>
+      <h1>nguyen thanh nhan</h1>
       <Hook2/>
-      hádahsduhfòe
     </div>
   );
 }
