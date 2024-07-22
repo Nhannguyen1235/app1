@@ -15,6 +15,10 @@ export default function Hook2() {
             </div>
             <div>
                 <button onClick={()=>setRes(a+b)}>+</button>
+                <button onClick={()=>setRes(a+b)}>+</button>
+
+                <button onClick={()=>setRes(a+b)}>+</button>
+
                 <button onClick={()=>setRes(a-b)}>-</button>
                 <button onClick={()=>setRes(a*b)}>*</button>
                 <button onClick={()=>setRes((a/b).toFixed(2))}>/</button><br/>
